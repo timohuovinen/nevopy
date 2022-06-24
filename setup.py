@@ -47,7 +47,7 @@ REQUIRED_PACKAGES = [
     "networkx ~= 2.5",
     "numpy ~= 1.19.5",
     "ray ~= 1.4.0",
-    "tensorflow ~= 2.4.0",
+    "tensorflow ~= 2.5.0",
 ]
 
 # Packages which are only needed for testing code.
