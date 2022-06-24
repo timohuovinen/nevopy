@@ -1,7 +1,7 @@
 tensorflow==2.4.0
 numpy==1.19.5
 matplotlib==3.3.3
-ray==1.1.0
+ray==1.4.1
 gym==0.17.3
 networkx==2.5
 click==7.1.2
