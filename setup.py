@@ -46,7 +46,7 @@ REQUIRED_PACKAGES = [
     "matplotlib ~= 3.3.3",
     "networkx ~= 2.5",
     "numpy ~= 1.19.5",
-    "ray ~= 1.1.0",
+    "ray ~= 1.4.0",
     "tensorflow ~= 2.4.0",
 ]
 
